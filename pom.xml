@@ -45,6 +45,11 @@
       <version>7.27.0.Final</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com</groupId>
+      <artifactId>test.loadEnums</artifactId>
+      <version>0.0.1</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
