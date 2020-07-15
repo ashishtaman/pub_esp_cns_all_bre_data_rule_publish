@@ -1,2 +1,0 @@
-=(new file_read_text()).loadData("panelist_attr")
-=(new file_read_text()).loadData("npd_attr")
