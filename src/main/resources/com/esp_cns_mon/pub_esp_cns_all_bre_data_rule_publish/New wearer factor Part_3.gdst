@@ -124,7 +124,7 @@
   <imports>
     <imports/>
   </imports>
-  <packageName>com.esp_cns_mon.pub_esp_cns_all_bre_data_rule_publish__work</packageName>
+  <packageName>com.esp_cns_mon.pub_esp_cns_all_bre_data_rule_publish</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
   <hitPolicy>NONE</hitPolicy>
   <data>
